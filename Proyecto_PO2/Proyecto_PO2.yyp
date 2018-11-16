@@ -63,10 +63,18 @@
             }
         },
         {
+            "Key": "545e0520-e818-48ee-86d4-f9ee1eb78ee2",
+            "Value": {
+                "id": "d8043b44-ac6f-483c-aad3-41df8afc0306",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bb2c416-0d83-4805-9247-29209c8d638e",
             "Value": {
                 "id": "3027a9e4-59f9-4337-a2ef-8ca15729b8e5",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_level\\rm_level.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -79,10 +87,18 @@
             }
         },
         {
+            "Key": "681816bf-81ab-43f0-ac50-961fd07ce263",
+            "Value": {
+                "id": "1b01c4b1-6af0-42e9-b2e2-53b83d24bc95",
+                "resourcePath": "sprites\\spr_ground\\spr_ground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a63455a-5e13-420d-aff6-b2d9b2f2c72e",
             "Value": {
                 "id": "43c3bef7-e72f-4524-9ff4-53489e4fad6c",
-                "resourcePath": "sprites\\spr_bob\\spr_bob.yy",
+                "resourcePath": "sprites\\spr_batman\\spr_batman.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,14 +183,6 @@
             }
         },
         {
-            "Key": "e7f61ab4-f83a-4f3c-bc48-47cb59de7aa8",
-            "Value": {
-                "id": "5351a04e-5ad3-4314-b48d-338d54e409a8",
-                "resourcePath": "scripts\\scr_score\\scr_score.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e92818fa-f7d0-4e50-90d4-074cb844561e",
             "Value": {
                 "id": "350f1917-cdf9-46be-89b2-2886e6f320be",
@@ -216,7 +224,7 @@
         }
     ],
     "script_order": [
-        "e7f61ab4-f83a-4f3c-bc48-47cb59de7aa8"
+        
     ],
     "tutorial": ""
 }

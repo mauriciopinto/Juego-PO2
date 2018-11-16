@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_batman",
     "eventList": [
-        
+        {
+            "id": "b84e555c-f83c-4465-9384-87a340746de2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "617ab744-18ef-4222-9478-d9151bb6019c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
