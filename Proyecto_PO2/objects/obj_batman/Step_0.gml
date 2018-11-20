@@ -1,11 +1,12 @@
 ///Metodo movimiento batman
-xdir = keyboard_check(vk_right) - keyboard_check(vk_left);
-x += xdir*move_speed;
-//Salto
-if keyboard_check(vk_space){
-	gravity = 0;
-	y -= 1;
+var xdir = keyboard_check(vk_right) - keyboard_check(vk_left);
+vx = xdir * walkspeed;
+vy += gravity;
+if (place_meeting(x,y+1,obj_ground)) && (keyboard_check_pressed(vk_space)){
+		vy=-7;
 }
-else{
-	gravity = 0.3;
-}
+
+
+//Horizontal Collision
+
+
